@@ -1,20 +1,20 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: odoo-docs-local-ja-150\n"
+"Project-Id-Version: odoo-docs-locale-ja-150\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-01 15:11+0000\n"
-"PO-Revision-Date: 2022-09-10 05:18\n"
+"POT-Creation-Date: 2022-09-11 10:01+0000\n"
+"PO-Revision-Date: 2022-09-11 10:18\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Crowdin-Project: odoo-docs-local-ja-150\n"
-"X-Crowdin-Project-ID: 537060\n"
+"X-Crowdin-Project: odoo-docs-locale-ja-150\n"
+"X-Crowdin-Project-ID: 537196\n"
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: productivity.pot\n"
-"X-Crowdin-File-ID: 82\n"
+"X-Crowdin-File-ID: 146\n"
 "Language: ja_JP\n"
 
 #: ../../content/applications/productivity.rst:5
@@ -69,6 +69,10 @@ msgstr ""
 msgid "For :guilabel:`What is your goal today?`, select :guilabel:`3rd party integrations`."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/advanced/ice_servers.rst:None
+msgid "The Twilio welcome page."
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/advanced/ice_servers.rst:34
 msgid "If necessary, change the billing country. Finally, click :guilabel:`Get Started with Twilio`."
 msgstr ""
@@ -81,12 +85,20 @@ msgstr ""
 msgid "To locate the Account SID and Auth Token, go to the Twilio account dashboard. Then, click :guilabel:`Develop` on the sidebar. In the :guilabel:`Account Info` section, locate the :guilabel:`Account SID` and the :guilabel:`Auth Token`. Both of these are needed to connect Twilio to Odoo."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/advanced/ice_servers.rst:None
+msgid "The Twilio Account SID and Auth Token can be found uner the Account Info section."
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/advanced/ice_servers.rst:49
 msgid "Connect Twilio to Odoo"
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/advanced/ice_servers.rst:51
 msgid "Open the Odoo database and go to :menuselection:`Settings --> General Settings --> Discuss`. Check the box next to :guilabel:`Use Twilio ICE servers` and enter the Twilio account's :guilabel:`Account SID` and :guilabel:`Auth Token`. Finally, click :guilabel:`Save` to apply these changes."
+msgstr ""
+
+#: ../../content/applications/productivity/discuss/advanced/ice_servers.rst:None
+msgid "Enable the \"Use Twilio ICE servers\" option in Odoo General Settings."
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/advanced/ice_servers.rst:61
@@ -101,8 +113,16 @@ msgstr ""
 msgid "In :menuselection:`Settings --> General Settings --> Discuss`, click the :guilabel:`ICE Servers` button under :guilabel:`Custom ICE server list`."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/advanced/ice_servers.rst:None
+msgid "The \"ICE Servers\" button in Odoo General Settings."
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/advanced/ice_servers.rst:74
 msgid "Odoo will redirect to the :guilabel:`ICE servers` page. Here you can define your own list of ICE servers."
+msgstr ""
+
+#: ../../content/applications/productivity/discuss/advanced/ice_servers.rst:None
+msgid "The \"ICE servers\" page in Odoo."
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview.rst:5
@@ -125,6 +145,10 @@ msgstr ""
 msgid "Access your *Preferences* and choose how you would like your notifications to be handled."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/overview/get_started.rst:None
+msgid "View of the preferences page for Odoo Discuss"
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/overview/get_started.rst:23
 msgid "By default, the field is set as *Handle by Emails* making messages, notes, and notifications where you were mentioned or that you follow, to be sent through email. By choosing *Handle in Odoo*, they are shown in the *Inbox*."
 msgstr ""
@@ -133,8 +157,16 @@ msgstr ""
 msgid "Messages can then be *Marked as Todo*, *Replied*, or *Marked as Read*."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/overview/get_started.rst:None
+msgid "View of an inbox message and its action options in Odoo Discuss"
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/overview/get_started.rst:30
 msgid "The messages tagged as *Mark as Todo* are also shown in *Starred*, while the ones *Marked as Read* are moved to *History*."
+msgstr ""
+
+#: ../../content/applications/productivity/discuss/overview/get_started.rst:None
+msgid "View of messages marked as todo in Odoo Discuss"
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/get_started.rst:38
@@ -145,12 +177,21 @@ msgstr ""
 msgid "The first time you log in to your account, OdooBot sends you a message asking for permission to receive desktop notifications to chats. If accepted, you receive push notifications to the messages sent to you despite of where you are in Odoo."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/overview/get_started.rst:None
+msgid "View of the messages under the messaging menu emphasizing the request for push\n"
+"notifications for Odoo Discuss"
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/overview/get_started.rst:50
 msgid "To stop receiving desktop notifications, reset the notifications settings of your browser."
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/get_started.rst:52
 msgid "To start a chat, click on *New Message* on the *Messaging Menu*, or go to *Discuss* and send a *Direct Message*."
+msgstr ""
+
+#: ../../content/applications/productivity/discuss/overview/get_started.rst:None
+msgid "View of discuss’s panel emphasizing the titles channels and direct messages in Odoo Discuss"
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/get_started.rst:60
@@ -167,6 +208,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/get_started.rst:68
 msgid "A notification is sent to the user mentioned either to his *Inbox* or through email, depending on his settings."
+msgstr ""
+
+#: ../../content/applications/productivity/discuss/overview/get_started.rst:None
+msgid "View of a couple of chat window messages for Odoo Discuss"
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/get_started.rst:75
@@ -197,6 +242,10 @@ msgstr ""
 msgid "Airplane = out of the office"
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/overview/get_started.rst:None
+msgid "View of the contacts’ status for Odoo Discuss"
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/overview/get_started.rst:97
 #: ../../content/applications/productivity/discuss/overview/plan_activities.rst:65
 msgid ":doc:`team_communication`"
@@ -222,6 +271,10 @@ msgstr ""
 msgid "Access and manage your activities wherever you are in Odoo by the *Activities* menu."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/overview/plan_activities.rst:None
+msgid "View of crm leads page emphasizing the activities menu for Odoo Discuss"
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/overview/plan_activities.rst:20
 msgid "Plan activities"
 msgstr ""
@@ -230,12 +283,20 @@ msgstr ""
 msgid "Activities can be planned and managed from the chatter by clicking on *Schedule activity*, or through Kanban views."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/overview/plan_activities.rst:None
+msgid "View of crm leads and the option to schedule an activity for Odoo Discuss"
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/overview/plan_activities.rst:31
 msgid "Set your activity types"
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/plan_activities.rst:33
 msgid "A number of activities types are available by default in Odoo (call, email, meeting, etc.). However, you can set new ones going to :menuselection:`Settings --> Activity types`."
+msgstr ""
+
+#: ../../content/applications/productivity/discuss/overview/plan_activities.rst:None
+msgid "View of the settings page emphasizing the menu activity types for Odoo Discuss"
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/plan_activities.rst:42
@@ -250,8 +311,18 @@ msgstr ""
 msgid "Odoo helps you to plan a flow of activities by allowing you to set *Recommended Next Activities*."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/overview/plan_activities.rst:None
+msgid "View of an activity type form emphasizing the field recommended next activities for Odoo\n"
+"Discuss"
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/overview/plan_activities.rst:55
 msgid "Once the respective activity is completed, select *Done & Schedule Next* and next steps are suggested to you."
+msgstr ""
+
+#: ../../content/applications/productivity/discuss/overview/plan_activities.rst:None
+msgid "View of an activity being schedule emphasizing the recommended activities field being\n"
+"shown for Odoo Discuss"
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/plan_activities.rst:64
@@ -275,6 +346,10 @@ msgstr ""
 msgid "A *Public* channel can be seen by everyone, while a *Private* one is only visible to users invited to it."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/overview/team_communication.rst:None
+msgid "View of discuss’s sidebar and a channel being created in Odo Discuss"
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/overview/team_communication.rst:21
 msgid "A public channel is best used when many employees need to access information (such as company announcements), whereas a private channel could be used whenever information should be limited to specific groups (such as a specific department)."
 msgstr ""
@@ -287,6 +362,10 @@ msgstr ""
 msgid "You can configure a channel’s name, description, email alias, and privacy by clicking on the *Channel Settings* icon on the sidebar."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/overview/team_communication.rst:None
+msgid "View of a channel’s settings form in Odoo Discuss"
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/overview/team_communication.rst:36
 msgid "Privacy and Members"
 msgstr ""
@@ -297,6 +376,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/team_communication.rst:42
 msgid "If you choose *Invited people only*, go to the *Members* tab to add your members, or, go to Discuss’ main page, select the channel and click on *Invite*."
+msgstr ""
+
+#: ../../content/applications/productivity/discuss/overview/team_communication.rst:None
+msgid "View of Discuss’ sidebar emphasizing the option to invite members in Odoo Discuss"
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/team_communication.rst:49
@@ -315,6 +398,10 @@ msgstr ""
 msgid "Enabling this option allows you to *Moderate this channel*, meaning that messages will need to be approved before being sent."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/overview/team_communication.rst:None
+msgid "View of a message with a pending moderation status in Odoo Discuss"
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/overview/team_communication.rst:66
 msgid "Under the *Moderation* tab choose as many moderators as you need, and if you would like them to receive an *Automatic notification*."
 msgstr ""
@@ -323,8 +410,16 @@ msgstr ""
 msgid "Mark *Send guidelines to new subscribers* to automatically send instructions to newcomers."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/overview/team_communication.rst:None
+msgid "View of a channel’s settings form emphasizing the tab moderation in Odoo Discuss"
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/overview/team_communication.rst:73
 msgid "Moderators can: *Accept*, *Reject*, *Discard*, *Always Allow* or *Ban* messages."
+msgstr ""
+
+#: ../../content/applications/productivity/discuss/overview/team_communication.rst:None
+msgid "View of a message to be moderated in Odoo Discuss"
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/team_communication.rst:80
@@ -335,12 +430,20 @@ msgstr ""
 msgid "Once a channel is moderated, the menu *Ban List* allows you to add email addresses per moderated channel to auto-ban them from sending messages."
 msgstr ""
 
+#: ../../content/applications/productivity/discuss/overview/team_communication.rst:None
+msgid "View of a channel’s setting form emphasizing the ban Lists menu in Odoo Discuss"
+msgstr ""
+
 #: ../../content/applications/productivity/discuss/overview/team_communication.rst:91
 msgid "Quick search bar"
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/team_communication.rst:93
 msgid "Once at least 20 channels, direct message and live chat conversations (if the module is installed on your database) are pinned in the sidebar, a *Quick search…* bar is displayed. It is a clever way to filter conversations and quickly find the one you need."
+msgstr ""
+
+#: ../../content/applications/productivity/discuss/overview/team_communication.rst:None
+msgid "View of the Discuss’ sidebar emphasizing the quick search bar in Odoo Discuss"
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/team_communication.rst:103
@@ -353,6 +456,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/team_communication.rst:108
 msgid "Apply filters criteria and save it for later use. The search function accepts wildcards by using the underscore character *(_)* to represent a single character."
+msgstr ""
+
+#: ../../content/applications/productivity/discuss/overview/team_communication.rst:None
+msgid "View of a channel being searched through filters in Odoo Discuss"
 msgstr ""
 
 #: ../../content/applications/productivity/discuss/overview/team_communication.rst:116
@@ -949,8 +1056,16 @@ msgstr ""
 msgid "If your scale is `compatible with Odoo IoT Box <https://www.odoo.com/page/iot-hardware>`_, there is no need to set up anything because it will be automatically detected as soon as it is connected."
 msgstr ""
 
+#: ../../content/applications/productivity/iot/devices/scale.rst:None
+msgid "IOT box auto detection."
+msgstr ""
+
 #: ../../content/applications/productivity/iot/devices/scale.rst:24
 msgid "You may need to restart the box and download your scales’ drivers from the box in some cases. To do so, go to the *IoT Box Home Page* and click on *drivers list*. Then, click on load drivers."
+msgstr ""
+
+#: ../../content/applications/productivity/iot/devices/scale.rst:None
+msgid "View of the IoT box settings and driver list."
 msgstr ""
 
 #: ../../content/applications/productivity/iot/devices/scale.rst:32
@@ -961,12 +1076,24 @@ msgstr ""
 msgid "To use the scale in your *Point of Sale* app, go to :menuselection:`Point of Sale --> Configuration --> Point of Sale`, open the one you want to configure, then click on *Edit* and enable the *IoT Box* feature."
 msgstr ""
 
+#: ../../content/applications/productivity/iot/devices/scale.rst:None
+msgid "View of the IoT box feature inside of the PoS settings."
+msgstr ""
+
 #: ../../content/applications/productivity/iot/devices/scale.rst:42
 msgid "Now, choose the *IoT Box* in the dropdown menu and check the *Electronic Scale* option. Then, you hit save."
 msgstr ""
 
+#: ../../content/applications/productivity/iot/devices/scale.rst:None
+msgid "List of the external tools that can be used with PoS and the IoT box."
+msgstr ""
+
 #: ../../content/applications/productivity/iot/devices/scale.rst:49
 msgid "The scale is now available in all your *PoS* sessions. Then, if a product has a price per weight set, clicking on it on the *PoS* screen opens the scale screen, where the cashier can weigh the product and add the correct price to the cart."
+msgstr ""
+
+#: ../../content/applications/productivity/iot/devices/scale.rst:None
+msgid "Electronic Scale dashboard view when no items are being weighed."
 msgstr ""
 
 #: ../../content/applications/productivity/mail_plugins.rst:5
@@ -1075,12 +1202,24 @@ msgstr ""
 msgid "Click on *Publish* then *Deploy from manifest...*"
 msgstr ""
 
+#: ../../content/applications/productivity/mail_plugins/gmail.rst:0
+msgid "Deploying from manifest the Gmail Plugin from the Apps Script project"
+msgstr ""
+
 #: ../../content/applications/productivity/mail_plugins/gmail.rst:35
 msgid "Make sure you are using the legacy editor; otherwise the *Deploy from manifest* functionality may not be available."
 msgstr ""
 
+#: ../../content/applications/productivity/mail_plugins/gmail.rst:0
+msgid "Using the legacy editor in the Gmail Plugin Apps Script project"
+msgstr ""
+
 #: ../../content/applications/productivity/mail_plugins/gmail.rst:42
 msgid "Click on *Install add-on*. A \"Deployment installed\" notification should appear. You can then click on *Close*."
+msgstr ""
+
+#: ../../content/applications/productivity/mail_plugins/gmail.rst:0
+msgid "Installing the Gmail Plugin from the Apps Script project"
 msgstr ""
 
 #: ../../content/applications/productivity/mail_plugins/gmail.rst:52
@@ -1091,17 +1230,34 @@ msgstr ""
 msgid "Open any email in your Gmail mailbox. On the right-side panel, click on the Odoo icon and then *Authorize Access*."
 msgstr ""
 
+#: ../../content/applications/productivity/mail_plugins/gmail.rst:0
+msgid "Authorizing access to the Gmail Plugin"
+msgstr ""
+
 #: ../../content/applications/productivity/mail_plugins/gmail.rst:61
 msgid "Choose the right Google account."
+msgstr ""
+
+#: ../../content/applications/productivity/mail_plugins/gmail.rst:0
+msgid "Choosing your Google account"
 msgstr ""
 
 #: ../../content/applications/productivity/mail_plugins/gmail.rst:67
 msgid "Allow the Gmail Plugin to access some of your data."
 msgstr ""
 
+#: ../../content/applications/productivity/mail_plugins/gmail.rst:0
+msgid "Allowing the Gmail Plugin to access Google data"
+msgstr ""
+
 #: ../../content/applications/productivity/mail_plugins/gmail.rst:73
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:68
 msgid "The right-side panel can now display **Company Insights**. At the bottom, click on *Login*."
+msgstr ""
+
+#: ../../content/applications/productivity/mail_plugins/gmail.rst:0
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+msgid "Logging in your Odoo database"
 msgstr ""
 
 #: ../../content/applications/productivity/mail_plugins/gmail.rst:80
@@ -1114,6 +1270,11 @@ msgstr ""
 msgid "Enter your Odoo database URL and click on *Login*."
 msgstr ""
 
+#: ../../content/applications/productivity/mail_plugins/gmail.rst:0
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+msgid "Entering your Odoo database URL"
+msgstr ""
+
 #: ../../content/applications/productivity/mail_plugins/gmail.rst:89
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:105
 msgid "If you aren't logged into your database, enter your credentials."
@@ -1121,6 +1282,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/mail_plugins/gmail.rst:91
 msgid "Click on *Allow* to let the Gmail Plugin connect to your database."
+msgstr ""
+
+#: ../../content/applications/productivity/mail_plugins/gmail.rst:0
+msgid "Allowing the Gmail Plugin to connect to a database"
 msgstr ""
 
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:3
@@ -1143,20 +1308,40 @@ msgstr ""
 msgid "Click on the *More actions* button and select *Get Add-ins*."
 msgstr ""
 
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+msgid "More actions button in Outlook"
+msgstr ""
+
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:31
 msgid "Select the *My add-ins* tab."
+msgstr ""
+
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+msgid "My add-ins in Outlook"
 msgstr ""
 
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:37
 msgid "Under *Custom add-ins*, click on *+ Add a custom add-in*, and then on *Add from URL...*"
 msgstr ""
 
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+msgid "Custom add-ins in Outlook"
+msgstr ""
+
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:43
 msgid "Enter the following URL `https://download.odoo.com/plugins/v15/outlook/manifest.xml` and press *OK*."
 msgstr ""
 
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+msgid "Entering the add-in URL in Outlook"
+msgstr ""
+
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:50
 msgid "Read the warning and click on *Install*."
+msgstr ""
+
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+msgid "Custom add-in installation warning in Outlook"
 msgstr ""
 
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:59
@@ -1165,6 +1350,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:61
 msgid "Open any email in your Outlook mailbox, click on the *More actions* button, and select *Odoo for Outlook*."
+msgstr ""
+
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+msgid "Odoo for Outlook add-in button"
 msgstr ""
 
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:79
@@ -1187,8 +1376,16 @@ msgstr ""
 msgid "Click on *Allow* to open the pop-up window."
 msgstr ""
 
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+msgid "New window pop-up warning"
+msgstr ""
+
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:107
 msgid "Click on *Allow* to let the Outlook Plugin connect to your database."
+msgstr ""
+
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+msgid "Allowing the Outlook Plugin to connect to a database"
 msgstr ""
 
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:116
@@ -1203,8 +1400,17 @@ msgstr ""
 msgid "In your Outlook mailbox, click on *Settings*, then on *View all Outlook settings*."
 msgstr ""
 
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+msgid "Viewing all Outlook settings"
+msgstr ""
+
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:127
 msgid "Select *Customize actions* under *Mail*, click on *Odoo for Outlook*, and then *Save*."
+msgstr ""
+
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+#: ../../content/applications/productivity/mail_plugins/outlook.rst:0
+msgid "Odoo for Outlook customized action"
 msgstr ""
 
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:133
@@ -1271,6 +1477,10 @@ msgstr ""
 msgid "For every automated action you create, the following elements should be defined: the :ref:`studio/automated-actions/model`, the :ref:`studio/automated-actions/trigger`, the :ref:`studio/automated-actions/apply-on`, and the :ref:`studio/automated-actions/action`."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/automated_actions.rst:0
+msgid "Example of an automated action on the Subscription model"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/automated_actions.rst:25
 msgid "Model"
 msgstr ""
@@ -1319,6 +1529,10 @@ msgstr ""
 msgid "If you want the automated action to happen when an email address is set on a contact, define the :guilabel:`Before Update Domain` to `Email is not set`, and the :guilabel:`Apply on` domain to `Email is set`."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/automated_actions.rst:0
+msgid "Example of an On Update trigger"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/automated_actions.rst:72
 msgid "On Creation & Update"
 msgstr ""
@@ -1365,6 +1579,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/automated_actions.rst:112
 msgid "If you want to send a reminder email 30 minutes before the start of a calendar event, select the :guilabel:`Start (Calendar Event)` under :guilabel:`Trigger Date` and set the :guilabel:`Delay after trigger date` to **-30** :guilabel:`Minutes`."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/automated_actions.rst:0
+msgid "Example of a Based on Timed Condition trigger"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/automated_actions.rst:121
@@ -1431,6 +1649,10 @@ msgstr ""
 msgid "If an automated action creates a new task in a project, you can assign it to a specific user by setting the :guilabel:`Field` to :guilabel:`Responsible User (Project)`, the :guilabel:`Evaluation Type` to :guilabel:`Reference`, and the :guilabel:`Record` to a specific user."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/automated_actions.rst:0
+msgid "Example of a Create a new Record action"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/automated_actions.rst:181
 msgid ":guilabel:`Python expression`: used to dynamically define the newly created record’s value for a field using Python code in the :guilabel:`Value` column."
 msgstr ""
@@ -1481,6 +1703,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/automated_actions.rst:232
 msgid "After a lead is turned into an opportunity, you want your automated action to set up a call for the user responsible for the lead. To do so, set the :guilabel:`Activity` to :guilabel:`Call` and set the :guilabel:`Activity User Type` to :guilabel:`Generic User From Record`."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/automated_actions.rst:0
+msgid "Example of a Create Next Activity action"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/automated_actions.rst:243
@@ -1566,12 +1792,20 @@ msgstr ""
 msgid ":guilabel:`URL`: the value becomes a clickable URL."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Examples of Text fields with different widgets"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/fields.rst:66
 msgid "Multiline Text (`text`)"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:68
 msgid "The :guilabel:`Multiline Text` field is used for longer text containing any type of character. Two text lines are displayed on the UI when filling out the field."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Examples of Multiline Text fields with different widgets"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:82
@@ -1593,6 +1827,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:91
 msgid ":guilabel:`Handle`: displays a drag handle icon to order records manually in :ref:`List view <studio/views/multiple-records/list>`."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Examples of Integer fields with different widgets"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:103
@@ -1623,6 +1861,10 @@ msgstr ""
 msgid ":guilabel:`Time`: the value must follow the *hh:mm* format, with a maximum of 59 minutes."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Examples of Decimal fields with different widgets"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/fields.rst:131
 msgid "Monetary (`monetary`)"
 msgstr ""
@@ -1633,6 +1875,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:136
 msgid "When you first add a :guilabel:`Monetary` field, you are prompted to add a :guilabel:`Currency` field if none exists already on the model. Odoo offers to add the :guilabel:`Currency` field for you. Once it is added, add the :guilabel:`Monetary` field again."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Example of a Monetary field along with its Currency field"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:149
@@ -1647,6 +1893,10 @@ msgstr ""
 msgid ":guilabel:`Multiline Text`: disables the Odoo HTML editor to allow editing raw HTML."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Examples of Html fields with different widgets"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/fields.rst:164
 msgid "Date (`date`)"
 msgstr ""
@@ -1657,6 +1907,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:168
 msgid ":guilabel:`Remaining Days`: the remaining number of days before the selected date is displayed (e.g., *In 5 days*), based on the current date."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Examples of Date fields with different widgets"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:180
@@ -1675,6 +1929,10 @@ msgstr ""
 msgid ":guilabel:`Remaining days`: displays the remaining number of days before the selected date (e.g., *In 5 days*), based on the current date and time."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Examples of Date & Time fields with different widgets"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/fields.rst:198
 msgid "Checkbox (`boolean`)"
 msgstr ""
@@ -1689,6 +1947,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:204
 msgid ":guilabel:`Toggle`: displays a toggle button. The widget works without switching to the edit mode."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Examples of Checkbox fields with different widgets"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:215
@@ -1716,6 +1978,10 @@ msgstr ""
 msgid "By default, radio buttons are organized vertically. Tick :guilabel:`display horizontally` to switch the way they are displayed."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Examples of Selection fields with different widgets"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/fields.rst:243
 msgid "Priority (`selection`)"
 msgstr ""
@@ -1726,6 +1992,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:253
 msgid "To change the number of available stars by adding or removing values, click :guilabel:`Edit Values`. Note that the first value is equal to 0 stars (i.e., when no selection is made), so having four values results in a three-star rating system, for example."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Example of a Priority field"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:266
@@ -1746,6 +2016,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:276
 msgid ":guilabel:`Sign`: users can electronically sign the form. This has the same effect as selecting the :ref:`Sign field <studio/fields/simple-fields/sign>`."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Examples of File fields with different widgets"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:288
@@ -1792,6 +2066,10 @@ msgstr ""
 msgid "On the *Sales Order* model, the :guilabel:`Customer` field is a :guilabel:`Many2One` field pointing at the *Contact* model. This allows **many** sales orders to be linked to **one** contact (customer)."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Diagram showing a many2one relationship"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/fields.rst:345
 msgid "To prevent users from creating a new record in the linked model, tick :guilabel:`Disable creation`."
 msgstr ""
@@ -1820,6 +2098,10 @@ msgstr ""
 msgid "You could add a :guilabel:`One2Many` field on the *Contact* model to look at **one** customer's **many** sales orders."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Diagram showing a one2many relationship"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/fields.rst:371
 msgid "To use a :guilabel:`One2Many` field, the two models must have been linked already using a :ref:`Many2One field <studio/fields/relational-fields/many2one>`. One2Many relations do not exist independently: a reverse-search of existing Many2One relations is performed."
 msgstr ""
@@ -1836,6 +2118,10 @@ msgstr ""
 msgid "To modify the columns, click on the :guilabel:`Lines` field and then :guilabel:`Edit List View`. To edit the form that pops up when a user clicks on :guilabel:`Add a line`, click on :guilabel:`Edit Form View` instead."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Example of a Lines field"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/fields.rst:397
 msgid "Many2Many (`many2many`)"
 msgstr ""
@@ -1846,6 +2132,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:405
 msgid "On the *Task* model, the :guilabel:`Assignees` field is a :guilabel:`Many2Many` field pointing at the *Contact* model. This allows a single user to be assigned to **many** tasks and **many** users to be assigned to a single task."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Diagram showing many2many relationships"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:413
@@ -1866,6 +2156,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:430
 msgid "To display tags with different background colors, tick :guilabel:`Use colors`."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/fields.rst:0
+msgid "Example of a Tags field"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/fields.rst:441
@@ -1964,6 +2258,10 @@ msgstr ""
 msgid "Creating a model with the :ref:`studio/models-modules-apps/suggested-features/picture` and :ref:`studio/models-modules-apps/suggested-features/pipeline-stages` features enabled adds the image in the card layout of the :ref:`Kanban view <studio/views/multiple-records/kanban>`."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/models_modules_apps.rst:0
+msgid "Combination of the Picture and Pipeline stages features on the Kanban view"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/models_modules_apps.rst:39
 msgid "Contact details"
 msgstr ""
@@ -1972,12 +2270,20 @@ msgstr ""
 msgid "Selecting :guilabel:`Contact details` adds to the :ref:`Form view <studio/views/general/form>` a :ref:`Many2One field <studio/fields/relational-fields/many2one>` linked to the *Contact* model and two of its :ref:`Related Fields <studio/fields/relational-fields/related-field>`: :guilabel:`Phone` and :guilabel:`Email`. The :guilabel:`Contact` field is also added to the :ref:`List view <studio/views/multiple-records/list>`, and the :ref:`Map view <studio/views/multiple-records/map>` is activated."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/models_modules_apps.rst:0
+msgid "Contact details feature on the Form view"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/models_modules_apps.rst:57
 msgid "User assignment"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/models_modules_apps.rst:59
 msgid "Selecting :guilabel:`User assignment` adds to the :ref:`Form view <studio/views/general/form>` a :ref:`Many2One field <studio/fields/relational-fields/many2one>` linked to the *Contact* model, with the following :guilabel:`Domain`: `Share User is not set` to only allow the selection of *Internal Users*. In addition, the :guilabel:`many2one_avatar_user` widget is used to display the user's avatar. The :guilabel:`Responsible` field is also added to the :ref:`List view <studio/views/multiple-records/list>`."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/models_modules_apps.rst:0
+msgid "User assignment feature on the Form view"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/models_modules_apps.rst:75
@@ -2076,6 +2382,10 @@ msgstr ""
 msgid "Selecting :guilabel:`Custom Sorting` adds to the :ref:`List view <studio/views/multiple-records/list>` a drag handle icon to manually reorder records."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/models_modules_apps.rst:0
+msgid "Custom Sorting feature on the List view"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/models_modules_apps.rst:186
 msgid "Chatter"
 msgstr ""
@@ -2086,6 +2396,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/models_modules_apps.rst:192
 msgid "The :guilabel:`Chatter` feature can be added at a later stage."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/models_modules_apps.rst:0
+msgid "Chatter feature on the Form view"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/models_modules_apps.rst:203
@@ -2164,6 +2478,10 @@ msgstr ""
 msgid "To prevent users from creating, editing, or deleting records, untick :guilabel:`Can Create`, :guilabel:`Can Edit`, or :guilabel:`Can Delete`."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Sales order model's Form view"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/views.rst:59
 msgid "Activity"
 msgstr ""
@@ -2174,6 +2492,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:65
 msgid "This view can only be modified within Studio by editing the XML code."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Lead/Opportunity model's Activity view"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:76
@@ -2190,6 +2512,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:82
 msgid "To add an existing field under the search dropdown menu, go to the :guilabel:`+ Add` tab and drag-and-drop it under :guilabel:`Autocompletion Fields`."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Project model's Search view on the Kanban view"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:94
@@ -2220,6 +2546,10 @@ msgstr ""
 msgid "To change the way records are grouped by default, select a new group under :guilabel:`Default Group by`."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Project model's Kanban view"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/views.rst:127
 msgid "List"
 msgstr ""
@@ -2248,6 +2578,14 @@ msgstr ""
 msgid "To add a drag handle icon to reorder records manually, add an :ref:`Integer field <studio/fields/simple-fields/integer>` with the :guilabel:`Handle` widget."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Drag handle icon enabling to sort records manually in List view"
+msgstr ""
+
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Sales order model's List view"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/views.rst:161
 msgid "Map"
 msgstr ""
@@ -2274,6 +2612,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:175
 msgid "To have a route suggested between the different records, tick :guilabel:`Enable Routing` and select which field should be used to sort records for the routing."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Task model's Map view"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:187
@@ -2320,6 +2662,10 @@ msgstr ""
 msgid "You can also use :guilabel:`Delay Field` to display the duration of the event in hours by selecting a :ref:`Decimal <studio/fields/simple-fields/decimal>` or :ref:`Integer <studio/fields/simple-fields/integer>` field on the model which specifies the duration of the event. However, if you set an :guilabel:`End Date Field`, the :guilabel:`Delay Field` will not be taken into account."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Calendar Event model's Calendar view"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/views.rst:242
 msgid "Cohort"
 msgstr ""
@@ -2342,6 +2688,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:255
 msgid "To change the way the :guilabel:`Timeline` (i.e., the columns) progresses, select either :guilabel:`Forward` (from 0 to +15) or :guilabel:`Backward` (from -15 to 0). For most purposes, the :guilabel:`Forward` timeline is used."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Subscription model's Cohort view"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:268
@@ -2392,6 +2742,10 @@ msgstr ""
 msgid "To specify with which degree of precision each time scale should be divided by, select :guilabel:`Quarter Hour`, :guilabel:`Half Hour`, or :guilabel:`Hour` under :guilabel:`Day Precision`, :guilabel:`Half Day` or :guilabel:`Day` under :guilabel:`Week Precision`, and :guilabel:`Month Precision`."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Planning Shift model's Gantt view"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/views.rst:308
 msgid "Reporting views"
 msgstr ""
@@ -2418,6 +2772,10 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:329
 msgid "To display a count of records that made up the aggregated data in a cell, tick :guilabel:`Display count`."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Purchase Report model's Pivot view"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:341
@@ -2452,11 +2810,19 @@ msgstr ""
 msgid "*For Bar charts only*: When using two data dimensions (categories), display the two columns on top of each other by default by ticking :guilabel:`Stacked graph`."
 msgstr ""
 
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Sales Analysis Report model's Bar chart on Graph view"
+msgstr ""
+
 #: ../../content/applications/productivity/studio/views.rst:368
 msgid "Dashboard"
 msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:370
 msgid "The :guilabel:`Dashboard` view is used to display multiple reporting views and key performance indicators. Which elements are displayed on the view depends on the configuration of the other reporting views."
+msgstr ""
+
+#: ../../content/applications/productivity/studio/views.rst:0
+msgid "Sales Analysis Report model's Dashboard view"
 msgstr ""
 
