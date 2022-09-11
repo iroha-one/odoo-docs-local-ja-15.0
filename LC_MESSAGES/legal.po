@@ -1,20 +1,20 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: odoo-docs-local-ja-150\n"
+"Project-Id-Version: odoo-docs-locale-ja-150\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-22 09:36+0000\n"
-"PO-Revision-Date: 2022-09-10 05:18\n"
+"POT-Creation-Date: 2022-09-11 10:01+0000\n"
+"PO-Revision-Date: 2022-09-11 10:18\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Crowdin-Project: odoo-docs-local-ja-150\n"
-"X-Crowdin-Project-ID: 537060\n"
+"X-Crowdin-Project: odoo-docs-locale-ja-150\n"
+"X-Crowdin-Project-ID: 537196\n"
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: legal.pot\n"
-"X-Crowdin-File-ID: 80\n"
+"X-Crowdin-File-ID: 144\n"
 "Language: ja_JP\n"
 
 #: ../../content/legal.rst:8
@@ -59,6 +59,22 @@ msgstr ""
 msgid "Odoo Enterprise Agreement [#]_"
 msgstr ""
 
+#: ../../content/legal.rst:0
+msgid "View Odoo Enterprise Agreement"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Enterprise Agreement"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "View Odoo Enterprise Agreement (FR)"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Enterprise Agreement (FR)"
+msgstr ""
+
 #: ../../content/legal.rst:47
 #: ../../content/legal.rst:48
 #: ../../content/legal.rst:68
@@ -67,13 +83,68 @@ msgstr ""
 msgid "|missing_txt| |missing_pdf|"
 msgstr ""
 
+#: ../../content/legal.rst:94
+#: ../../content/legal.rst:90
+#: ../../content/legal.rst:94
+#: ../../content/legal.rst:90
+#: ../../content/legal.rst:94
+#: ../../content/legal.rst:90
+#: ../../content/legal.rst:94
+#: ../../content/legal.rst:90
+#: ../../content/legal.rst:94
+#: ../../content/legal.rst:90
+#: ../../content/legal.rst:90
+#: ../../content/legal.rst:94
+msgid "Document not yet available"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "View Odoo Enterprise Agreement (ES)"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Enterprise Agreement (ES)"
+msgstr ""
+
 #: ../../content/legal.rst:55
 #: ../../content/legal/terms/partnership.rst:5
 msgid "Odoo Partnership Agreement"
 msgstr ""
 
+#: ../../content/legal.rst:0
+msgid "View Odoo Partnership Agreement"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Partnership Agreement"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "View Odoo Partnership Agreement (FR)"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Partnership Agreement (FR)"
+msgstr ""
+
 #: ../../content/legal.rst:71
 msgid "Terms of Sale"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "View Terms of Sale"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Terms of Sale"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "View Terms of Sale (FR)"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Terms of Sale (FR)"
 msgstr ""
 
 #: ../../content/legal.rst:88
