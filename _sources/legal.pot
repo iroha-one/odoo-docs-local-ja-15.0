@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 15.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-22 09:36+0000\n"
+"POT-Creation-Date: 2022-09-11 10:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,6 +58,22 @@ msgstr ""
 msgid "Odoo Enterprise Agreement [#]_"
 msgstr ""
 
+#: ../../content/legal.rst:0
+msgid "View Odoo Enterprise Agreement"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Enterprise Agreement"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "View Odoo Enterprise Agreement (FR)"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Enterprise Agreement (FR)"
+msgstr ""
+
 #: ../../content/legal.rst:47
 #: ../../content/legal.rst:48
 #: ../../content/legal.rst:68
@@ -66,13 +82,68 @@ msgstr ""
 msgid "|missing_txt| |missing_pdf|"
 msgstr ""
 
+#: ../../content/legal.rst:94
+#: ../../content/legal.rst:90
+#: ../../content/legal.rst:94
+#: ../../content/legal.rst:90
+#: ../../content/legal.rst:94
+#: ../../content/legal.rst:90
+#: ../../content/legal.rst:94
+#: ../../content/legal.rst:90
+#: ../../content/legal.rst:94
+#: ../../content/legal.rst:90
+#: ../../content/legal.rst:90
+#: ../../content/legal.rst:94
+msgid "Document not yet available"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "View Odoo Enterprise Agreement (ES)"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Enterprise Agreement (ES)"
+msgstr ""
+
 #: ../../content/legal.rst:55
 #: ../../content/legal/terms/partnership.rst:5
 msgid "Odoo Partnership Agreement"
 msgstr ""
 
+#: ../../content/legal.rst:0
+msgid "View Odoo Partnership Agreement"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Partnership Agreement"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "View Odoo Partnership Agreement (FR)"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Partnership Agreement (FR)"
+msgstr ""
+
 #: ../../content/legal.rst:71
 msgid "Terms of Sale"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "View Terms of Sale"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Terms of Sale"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "View Terms of Sale (FR)"
+msgstr ""
+
+#: ../../content/legal.rst:0
+msgid "Download Odoo Terms of Sale (FR)"
 msgstr ""
 
 #: ../../content/legal.rst:88

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 15.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-22 09:36+0000\n"
+"POT-Creation-Date: 2022-09-11 10:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -441,7 +441,7 @@ msgid "Since the values are propagated automatically, some unexpected behavior m
 msgstr ""
 
 #: ../../content/contributing/development/coding_guidelines.rst:637
-msgid "If you need to create a key context influencing the behavior of some object, choice a good name, and eventually prefix it by the name of the module to isolate its impact. A good example are the keys of ``mail`` module : *mail_create_nosubscribe*, *mail_notrack*, *mail_notify_user_signature*, ..."
+msgid "If you need to create a key context influencing the behavior of some object, choose a good name, and eventually prefix it by the name of the module to isolate its impact. A good example are the keys of ``mail`` module : *mail_create_nosubscribe*, *mail_notrack*, *mail_notify_user_signature*, ..."
 msgstr ""
 
 #: ../../content/contributing/development/coding_guidelines.rst:644
@@ -513,7 +513,7 @@ msgid "And by the way if you did create your own cursor, then you need to handle
 msgstr ""
 
 #: ../../content/contributing/development/coding_guidelines.rst:737
-msgid "And contrary to popular belief, you do not even need to call ``cr.commit()`` in the following situations: - in the ``_auto_init()`` method of an *models.Model* object: this is taken care of by the addons initialization method, or by the ORM transaction when creating custom models - in reports: the ``commit()`` is handled by the framework too, so you can update the database even from within a report - within *models.Transient* methods: these methods are called exactly like regular *models.Model* ones, within a transaction and with the corresponding ``cr.commit()/rollback()`` at the end - etc. (see general rule above if you have in doubt!)"
+msgid "And contrary to popular belief, you do not even need to call ``cr.commit()`` in the following situations: - in the ``_auto_init()`` method of an *models.Model* object: this is taken care of by the addons initialization method, or by the ORM transaction when creating custom models - in reports: the ``commit()`` is handled by the framework too, so you can update the database even from within a report - within *models.Transient* methods: these methods are called exactly like regular *models.Model* ones, within a transaction and with the corresponding ``cr.commit()/rollback()`` at the end - etc. (see general rule above if you are in doubt!)"
 msgstr ""
 
 #: ../../content/contributing/development/coding_guidelines.rst:749
@@ -633,11 +633,11 @@ msgid "In a Model attribute order should be"
 msgstr ""
 
 #: ../../content/contributing/development/coding_guidelines.rst:890
-msgid "Private attributes (``_name``, ``_description``, ``_inherit``, ...)"
+msgid "Private attributes (``_name``, ``_description``, ``_inherit``, ``_sql_constraints``, ...)"
 msgstr ""
 
 #: ../../content/contributing/development/coding_guidelines.rst:891
-msgid "Default method and ``_default_get``"
+msgid "Default method and ``default_get``"
 msgstr ""
 
 #: ../../content/contributing/development/coding_guidelines.rst:892
@@ -1566,6 +1566,10 @@ msgstr ""
 msgid "If necessary, you can **edit** the screenshot to remove unnecessary fields and to narrow even more Odoo's display."
 msgstr ""
 
+#: ../../content/contributing/documentation/content_guidelines.rst:None
+msgid "Three tips to take good screenshots for the Odoo documentation."
+msgstr ""
+
 #: ../../content/contributing/documentation/content_guidelines.rst:210
 msgid "Resizing the window's width is the most important step to do as Odoo's responsive design automatically resizes all fields to match the window's width."
 msgstr ""
@@ -1992,6 +1996,10 @@ msgstr ""
 
 #: ../../content/contributing/documentation/rst_cheat_sheet.rst:442
 msgid "The ``image`` markup allows inserting images in a document."
+msgstr ""
+
+#: ../../content/contributing/documentation/rst_cheat_sheet.rst:0
+msgid "Create an invoice."
 msgstr ""
 
 #: ../../content/contributing/documentation/rst_cheat_sheet.rst:458
